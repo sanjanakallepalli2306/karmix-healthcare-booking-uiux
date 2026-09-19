@@ -1,0 +1,1 @@
+function setMessage(e){e.preventDefault();document.getElementById("msg").textContent="Replace this button with your actual Figma prototype URL before final submission."; }
